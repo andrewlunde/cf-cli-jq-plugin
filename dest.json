@@ -1,0 +1,13 @@
+{
+  "clientid": "sb-clonec7a5982a489741c088e3f16c7bfd8466!b380|destination-xsappname!b8",
+  "clientsecret": "6fef105b-bc7b-4340-8bd1-5c30758f8715$xzGYtg2vFKuiCKLj-8DOEu_zUfQxN9K49MFbqH3sRzE=",
+  "identityzone": "partner-prova",
+  "instanceid": "c7a5982a-4897-41c0-88e3-f16c7bfd8466",
+  "tenantid": "bc6ba931-d86a-4804-8e5a-60429930e9b3",
+  "tenantmode": "dedicated",
+  "uaadomain": "authentication.us21.hana.ondemand.com",
+  "uri": "https://destination-configuration.cfapps.us21.hana.ondemand.com",
+  "url": "https://partner-prova.authentication.us21.hana.ondemand.com",
+  "verificationkey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqxBpX2ZM+Z0KCkkx30DdaUAS775+Hh02fhW5JgXlaDqRll1qrqpwynmcGb+kwz8GBW3OXB1pc9G+f/ZZfJcEUTCZeUbVqeVqTJ0sEoLwNoo7l/2Z1BAe/FB/hMnvz1JTQSZi9PZJNQCTZPFJ1xGAsduS+2Q43Zs0zYzD62UbTZrS9Ub4W7XI8qFeuUtojRKXJM0cAG+vo+u7RQhzXMSZlQsZbpXYLftvoV2N/aKIrlxMZsiBE0mS938584LW8+DL5ocJlIs2yWBXtHNDkkm7vsGFNzDeRjcq/2XEQ45jBl5xzdRgSUtUIw3B/of6piB9hp2b8BL25AmNyo6DqShx1QIDAQAB-----END PUBLIC KEY-----",
+  "xsappname": "clonec7a5982a489741c088e3f16c7bfd8466!b380|destination-xsappname!b8"
+}
