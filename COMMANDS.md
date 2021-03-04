@@ -89,8 +89,12 @@ shasum -a 1 ServiceManagement.win64
   version: 1.2.4
 ```
 
-GOOS=darwin GOARCH=amd64 go build -o copyenv.osx copyenv.go ; chmod 755 copyenv.osx ; cf uninstall-plugin copyenv ; cf install-plugin copyenv.osx -f ; cf plugins | grep copyenv
-
+## For MacOS
+```
 GOOS=darwin GOARCH=amd64 go build -o jsonquery.osx jsonquery.go ; chmod 755 jsonquery.osx ; cf uninstall-plugin jsonquery ; cf install-plugin jsonquery.osx -f ; cf plugins | grep jsonquery
+```
 
-
+## For BAS
+```
+GOOS=linux GOARCH=amd64 go build -o jsonquery.linux64 jsonquery.go ; chmod 755 jsonquery.linux64 ; cf uninstall-plugin jsonquery ; cf install-plugin jsonquery.linux64 -f ; cf plugins | grep jsonquery
+```
